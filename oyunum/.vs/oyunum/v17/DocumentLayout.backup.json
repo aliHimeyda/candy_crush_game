@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\oyungridi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:oyungridi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\oyuntasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:oyuntasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\oyunformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:oyunformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\oyunformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:oyunformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|c:\\c#_projeleri\\c#kareler_oyunu\\oyunum\\adam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:adam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\oyunformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:oyunformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|c:\\c#_projeleri\\c#kareler_oyunu\\oyunum\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D245FCA-D991-4AF1-B85F-6D59F3C5D2EC}|oyunum.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adam.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Adam.cs",
+              "RelativeDocumentMoniker": "Adam.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Adam.cs",
+              "RelativeToolTip": "Adam.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAwwNwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:22:50.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "Oyuncu.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Oyuncu.cs",
+              "RelativeToolTip": "Oyuncu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:27:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OyunGridi.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunGridi.cs",
+              "RelativeDocumentMoniker": "OyunGridi.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunGridi.cs",
+              "RelativeToolTip": "OyunGridi.cs",
+              "ViewState": "AgIAACACAAAAAAAAAAAuwDwCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:36:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OyunFormu.Designer.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunFormu.Designer.cs",
+              "RelativeDocumentMoniker": "OyunFormu.Designer.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunFormu.Designer.cs",
+              "RelativeToolTip": "OyunFormu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:54:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OyunFormu.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunFormu.cs",
+              "RelativeDocumentMoniker": "OyunFormu.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunFormu.cs",
+              "RelativeToolTip": "OyunFormu.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAYwJoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:10:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oyuntasi.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Oyuntasi.cs",
+              "RelativeDocumentMoniker": "Oyuntasi.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Oyuntasi.cs",
+              "RelativeToolTip": "Oyuntasi.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:56:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OyunFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunFormu.cs",
+              "RelativeDocumentMoniker": "OyunFormu.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\OyunFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OyunFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:48:11.021Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:05:42.016Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\C#_projeleri\\C#kareler_oyunu\\oyunum\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwI0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-02T15:25:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

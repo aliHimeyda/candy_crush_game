@@ -1,0 +1,10 @@
+C:\C#_projeleri\C#kareler_oyunu\oyunum\bin\Debug\oyunum.exe.config
+C:\C#_projeleri\C#kareler_oyunu\oyunum\bin\Debug\oyunum.exe
+C:\C#_projeleri\C#kareler_oyunu\oyunum\bin\Debug\oyunum.pdb
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.csproj.AssemblyReference.cache
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.Properties.Resources.resources
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.csproj.GenerateResource.cache
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.csproj.CoreCompileInputs.cache
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.exe
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.pdb
+C:\C#_projeleri\C#kareler_oyunu\oyunum\obj\Debug\oyunum.RoundedPanel.resources
